@@ -24,13 +24,13 @@ likertScaleChart('test2.pdf', questions, [rating1, rating2], scale_num, column_n
 
 See `likert-hist-chart.py` or `likert-hist-chart.ipynb`.
 
-![Histograms](../likert-charting/histograms.png)
+![Histograms](./histograms.png)
 
 ## Stacked Bar Charts Based
 
 See `likert-bar-chart.py` or `likert-bar-chart.ipynb`.
 
-![Bars](../likert-charting/bars.png)
+![Bars](./bars.png)
 
 ## Author
 Jian Zhao ([www.jeffjianzhao.com](www.jeffjianzhao.com)).
